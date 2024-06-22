@@ -15,7 +15,7 @@
 <script>
 import arrow from '@/assets/Welcome/arrow.svg'
 import ava from '@/assets/Welcome/ava.png'
-import cv from '@/assets/pdf/CV.pdf'
+import cv from '@/assets/pdf/CVIlshatOsmanov.pdf'
 
 import axios from 'axios';
 
